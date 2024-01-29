@@ -25,7 +25,6 @@ setuptools.setup(
         "numpy>=1.20.0",
         "opencv-python>=4.6.0",
         "rf_groundingdino",
-        "rf_segment_anything",
         "supervision"
     ],
     packages=find_packages(exclude=("tests",)),
